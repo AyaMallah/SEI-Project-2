@@ -1,0 +1,152 @@
+@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree&display=swap');
+
+$primaryColor: rgb(59, 221, 181);
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.hero {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.3)), url(./images/newspapers-segment.jpeg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-top: 0;
+  .hero-body{
+    display: flex;
+    justify-content: center;
+  }
+  .title-box {
+    background-color: rgb(71, 70, 70);
+    opacity: 0.9;
+    padding: 10px 20px;
+    border-radius: 10px;
+  }
+  .title-box:hover {
+    opacity: 1;
+    cursor: pointer;
+  }
+  h1 {
+    color: white;
+  }
+}
+
+nav {
+  a{
+    color: $primaryColor;
+  }
+  a:hover{
+    cursor: pointer;
+    color: white;
+  }
+}
+#info-link {
+  color: $primaryColor;
+}
+
+#info-link:hover {
+  color:rgb(47, 192, 156);
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-gap: 20px;
+}
+div.grid-item {
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  min-height: 400px;
+}
+
+figure img {
+  border-radius: 10px;
+  max-width: 750px;
+  margin: 0 auto;
+}
+
+.button {
+  background-color: $primaryColor;
+}
+
+.article-container-big {
+  margin: 0 250px;
+}
+
+form {
+  display: flex;
+  margin-bottom: 20px;
+    .search {
+      margin-left: 10px;
+    }
+}
+  .header {
+    min-height: 90px;
+    padding-top: 10px;
+    box-shadow: none;
+    text-align: center;
+    min-height: 100px;
+    p {
+      color:black;
+      padding: 5px;
+    }
+  }
+
+  .card-footer {
+    display: flex;
+    justify-content: center;
+  }
+
+  .footer-button {
+    background-color: rgb(59, 221, 181);
+    border-radius: 5px;
+    width: 130px;
+    padding: 5px 15px;
+    text-align: center;
+    color: white;
+    margin: 20px;
+  }
+
+  .footer-button:hover {
+    background-color: rgb(47, 192, 156);
+    cursor: pointer;
+  }
+
+.follow-link {
+  margin: 20px;
+}
+
+h2 {
+  font-family: 'Bai Jamjuree', sans-serif;
+  background-size: 50%;
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 20px;
+}
+
+#toastId {
+  color: $primaryColor;
+}
+
+.my-news-card {
+  max-width: 400px;
+  margin: 75px auto;
+}
+
+
+@media screen and (max-width: 1200px) {
+  .article-container-big {
+    margin: 0px 50px;
+  }
+  .grid-container {
+      grid-template-columns: auto auto;
+  }
+}
+
+@media screen and (max-width: 750px) {
+   .grid-container {
+      grid-template-columns: auto;
+  }
+}
