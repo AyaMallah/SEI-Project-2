@@ -39,7 +39,7 @@ https://ayamallahx-newsapp.netlify.app
 We both wanted to create an informative app with a clean design and clear UI. We chose a grey and aqua as our colour pallet and a minimalistic look to the design. We chose to use Bulma and CSS to style the app, this gave us flexibility to style elements effectively, when Bulma was not needed.  
 
 <div align="center">
-<img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1632924221/d61nHqLT8zETOEvTY38VMpya7tlEbbtSHoMfRMCKSgpahbDJblhoDCTKIGEH62vlCWkfG33Qbi2uGhof_Pwe3tcTfTrlsaX_X3vV1Z8Bxb0DGfMBLhzXJet26rUBzs2oXMF97RCD_s0_d8pgo6.png" width="600px" height="400px"/>  
+<img src="https://res.cloudinary.com/dhrxw6zhp/image/upload/v1632924221/d61nHqLT8zETOEvTY38VMpya7tlEbbtSHoMfRMCKSgpahbDJblhoDCTKIGEH62vlCWkfG33Qbi2uGhof_Pwe3tcTfTrlsaX_X3vV1Z8Bxb0DGfMBLhzXJet26rUBzs2oXMF97RCD_s0_d8pgo6.png" width="550px" height="350px"/>  
 </div>
 
 ## Approach
