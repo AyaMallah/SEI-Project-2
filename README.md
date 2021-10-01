@@ -32,8 +32,8 @@ https://ayamallahx-newsapp.netlify.app
 
 ## Installation
 * Clone or download the repo.
-* Install all frontend packages (from package.json) by running the command yarn.
-* Start server with yarn start.
+* Install all frontend packages (from package.json) by running the command `yarn`.
+* Start server with `yarn start`.
 
 ## Plan
 We both wanted to create an informative app with a clean design and clear UI. We chose a grey and aqua as our colour pallet and a minimalistic look to the design. We chose to use Bulma and CSS to style the app, this gave us flexibility to style elements effectively, when Bulma was not needed.  
