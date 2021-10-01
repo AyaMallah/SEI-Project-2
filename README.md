@@ -16,7 +16,7 @@ My partner and I built a React app within 48 hours like a hackathon style projec
 Using an external API create an app with multiple components, a router and several pages. The app should be created using JavaScript, React and HTML/CSS for styling.
 
 ## Deployment 
-https://ayamallahx-newsapp.netlify.app
+<a href="https://ayamallahx-newsapp.netlify.app" target="_blank">NewsApp</a>
 
 ## Timeframe
 48 hours
