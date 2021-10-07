@@ -66,21 +66,21 @@ We made sure to allow time for polishing and styling which was led by me. I went
 
 
 ## Wins 
-This was my first pair coded project. I really enjoyed it and took advantage of working with someone else, exploring different coding styles and collaboratively problem solving.  
+* This was my first pair coded project. I really enjoyed it and took advantage of working with someone else, exploring different coding styles and collaboratively problem solving.  
 
-A massive win for me in this project was the use of local storage for the save feature for each article. I had to research and understand how the local storage works. The user can search for topics they are interested in and save news articles to be retrieved again to read.
+* A massive win for me in this project was the use of local storage for the save feature for each article. I had to research and understand how the local storage works. The user can search for topics they are interested in and save news articles to be retrieved again to read.
 
-Another win would be creating an aesthetically pleasing and responsive app together. It was important that the site would be functional and look good when displayed on any device.  
+* Another win would be creating an aesthetically pleasing and responsive app together. It was important that the site would be functional and look good when displayed on any device.  
 
 ## Challenges
-One of the biggest challenges during this project was understanding the API. It was hard at first to figure out how the IDs of the articles were being displayed, which made it hard at first to view one single article.  
+* One of the biggest challenges during this project was understanding the API. It was hard at first to figure out how the IDs of the articles were being displayed, which made it hard at first to view one single article.  
 
-Understanding and navigating the API. We spent some time reading the documentation provided by the API’s website and testing the requests in Insomnia. Once we managed to do so it was a big win for us.  
+* Understanding and navigating the API. We spent some time reading the documentation provided by the API’s website and testing the requests in Insomnia. Once we managed to do so it was a big win for us.  
 
 ## Bugs
-The first bug I noticed was when an article that is displayed doesn't have a thumbnail attached in the API, it will display a broken image link. This does not look nice and makes the user experience less professional. A possible solution would be to filter out any news stories that do not have an image and not display these at all. 
+* The first bug I noticed was when an article that is displayed doesn't have a thumbnail attached in the API, it will display a broken image link. This does not look nice and makes the user experience less professional. A possible solution would be to filter out any news stories that do not have an image and not display these at all. 
 
-As the timeframe we had was short we were not able to fix all the problems we had. For example when testing out the save feature, we realised that each time a user saves an article it overwrites the current article in local storage. 
+* As the timeframe we had was short we were not able to fix all the problems we had. For example when testing out the save feature, we realised that each time a user saves an article it overwrites the current article in local storage. 
 
 ## Future Improvements
 * Fix the save feature for articles, so that a user can save more than one article when logged in.
