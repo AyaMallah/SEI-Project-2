@@ -73,9 +73,8 @@ We made sure to allow time for polishing and styling which was led by me. I went
 * Another win would be creating an aesthetically pleasing and responsive app together. It was important that the site would be functional and look good when displayed on any device.  
 
 ## Challenges
-* One of the biggest challenges during this project was understanding the API. It was hard at first to figure out how the IDs of the articles were being displayed, which made it hard at first to view one single article.  
-
-* Understanding and navigating the API. We spent some time reading the documentation provided by the API’s website and testing the requests in Insomnia. Once we managed to do so it was a big win for us.  
+* One of the biggest challenges during this project was understanding and navigating the API. It was hard at first to figure out how the IDs of the articles were being displayed, which made it hard at first to view one single article. But we spent some time reading the documentation provided by the API’s website and testing the requests in Insomnia. Once we managed to do so it was a big win for us.
+ 
 
 ## Bugs
 * The first bug I noticed was when an article that is displayed doesn't have a thumbnail attached in the API, it will display a broken image link. This does not look nice and makes the user experience less professional. A possible solution would be to filter out any news stories that do not have an image and not display these at all. 
